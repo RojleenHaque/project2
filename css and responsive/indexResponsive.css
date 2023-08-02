@@ -1,0 +1,476 @@
+@media screen and (min-width: 1024px) {
+    .our-scope-left-content-one h3 {
+        font-size: 36px;
+    }
+    
+    .our-scope-left-content-one h1 {
+        font-size: 48px;
+    }
+    
+    .our-scope-left-content-one h2 {
+        font-size: 36px;
+    }
+    
+
+    .our-scope-list-item {
+        height: 100%;
+    }
+    
+    .banner-content h2 {
+        font-size: 24px;
+    }
+    
+    .banner-content h1 {
+        font-size: 48px;
+    }
+    
+    .primary-btn {
+        font-size: 14px;
+    }
+    
+    .banner-content p {
+        font-size: 14px;
+    }
+    
+
+    
+    .hero-left-side h2 {
+        font-size: 30px;
+    }
+    
+    .hero-left-side h3 {
+        font-size: 18px;
+    }
+    
+    
+    .client-review h4 {
+        font-size: 14px;
+    }
+    
+    .primary-btn h5 {
+        font-size: 12px;
+    }
+    
+    .primary-heading h2 {
+        font-size: 48px;
+    }
+    
+    .primary-heading p {
+        font-size: 18px;
+    }
+    
+    .why-us-features-item h2 {
+        font-size: 24px;
+    }
+    
+    .why-us-features-item p {
+        font-size: 14px;
+    }
+    
+    .feature-project-list-item h2 {
+        font-size: 18px;
+    }
+    
+    .feature-project-list-item h3 {
+        font-size: 16px;
+    }
+    
+    .follow-us-content h3 {
+        font-size: 30px;
+    }
+    
+    .follow-us-social-item a {
+        font-size: 30px;
+    }
+    
+    .hero {
+        overflow-x: hidden;
+    }
+    
+}
+
+@media screen and (min-width: 768px)
+{
+    .our-scope-left-content-one h3 {
+        font-size: 30px;
+    }
+    
+    .our-scope-left-content-one h1 {
+        font-size: 40px;
+    }
+    
+    .our-scope-left-content-one h2 {
+        font-size: 30px;
+    }
+    
+    
+    
+    .our-scope-list-item {
+        height: 100%;
+    }
+    
+    .banner-content h2 {
+        font-size: 18px;
+    }
+    
+    .banner-content h1 {
+        font-size: 40px;
+    }
+    
+    .primary-btn {
+        font-size: 12px;
+    }
+    
+    .banner-content p {
+        font-size: 12px;
+    }
+    
+    
+    
+    .hero-left-side h2 {
+        font-size: 28px;
+    }
+    
+    .hero-left-side h3 {
+        font-size: 14px;
+    }
+    
+    
+    
+    .client-review h4 {
+        font-size: 12px;
+    }
+    
+    .primary-btn h5 {
+        font-size: 12px;
+    }
+    
+    .primary-heading h2 {
+        font-size: 40px;
+    }
+    
+    .primary-heading p {
+        font-size: 14px;
+    }
+    
+    .why-us-features-item h2 {
+        font-size: 20px;
+    }
+    
+    .why-us-features-item p {
+        font-size: 12px;
+    }
+    
+    .feature-project-list-item h2 {
+        font-size: 14px;
+    }
+    
+    .feature-project-list-item h3 {
+        font-size: 14px;
+    }
+    
+    .follow-us-content h3 {
+        font-size: 24px;
+    }
+    
+    .follow-us-social-item a {
+        font-size: 24px;
+    }
+    
+    .hero {
+        overflow-x: hidden;
+    }
+
+    .our-scope-left-content-one h3 {
+        line-height: 50px;
+        font-size: 24px;
+    }
+    
+    .our-scope-left-content-one h1 {
+        font-size: 36px;
+        line-height: 50px;
+    }
+    
+    .our-scope-left-content-one h2 {
+        font-size: 24px;
+        line-height: 40px;
+    }
+    
+    .our-scope-left-content p {
+        font-size: 14px;
+    }
+    
+    .our-scope-list-item-info h3 {
+        font-size: 16px;
+        line-height: 25px;
+    }
+    
+    .our-scope-list-item-info p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    
+    .feature-project-list-item h2 {
+        line-height: 20px;
+    }
+   
+    
+    .project-icon-list-item img {
+        margin-bottom: 10px;
+    }
+    
+    .footer-menu h3 {
+        font-size: 20px;
+        line-height: 25px;
+    }
+    
+    .footer-menu ul a {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    
+    .footer-info p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    
+    .footer-info img {
+        width: 100%;
+    }
+
+}
+
+@media screen and (max-width: 767px)
+{
+     
+    .hero {
+        overflow-x: hidden;
+    }
+    
+    .follow-us-content {
+        flex-direction: column;
+    }
+    
+    .follow-us-social-item {
+        flex-direction: column;
+    }
+    
+    .contact-form-input textarea {
+        width: 100%;
+    }
+    
+    .logo img {
+        width: 50%;
+    }
+    
+    .banner-content h2 {
+        font-size: 24px;
+    }
+    
+    .banner-content h1 {
+        font-size: 48px;
+        line-height: 54px;
+    }
+    
+    .banner-content p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    
+    .primary-btn {
+        font-size: 14px;
+    }
+    
+    .hero-left-side h2 {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    
+    .hero-left-side h3 {
+        font-size: 18px;
+        line-height: 25px;
+    }
+
+    .hero-left-side::after{
+        content: "";
+        position: absolute;
+        background: #FCA311;
+        top: 0;
+        bottom: 0;
+        left:100%;
+        right: -5000px;
+    }
+
+    .hero-right-side::after{
+        content: "";
+        position: absolute;
+        background: #1F2324;
+        top: 0;
+        bottom: 0;
+        left:-5000px;
+        right: 100%;
+    }
+    
+    .client-review h4 {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    
+    
+    
+    .client-review img {width: 65px;}
+    .primary-heading h2 {
+        font-size: 48px;
+        line-height: 58px;
+    }
+    
+    .primary-heading p {
+        font-size: 18px;
+        line-height: 20px;
+    }
+    
+    
+    .why-us-features-item img {
+        width: 50%;
+    }
+    
+    .why-us-features-item h2 {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    
+    .why-us-features {
+        text-align: center;
+    }
+    
+    .why-us-features-item p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    
+    .why-us-features-item {
+        margin-bottom: 40px;
+        padding: 0;
+    }
+    
+    
+    .hero-wrapper {
+        flex-direction: column;
+        gap: 0px;
+    }
+    
+    .our-scope-left-content-one h3 {
+        font-size: 36px;
+        line-height: 50px;
+    }
+    
+    .our-scope-left-content-one h1 {
+        font-size: 48px;
+        line-height: 50px;
+    }
+    
+    .our-scope-left-content-one h2 {
+        font-size: 36px;
+        line-height: 50px;
+    }
+    
+    .our-scope-left-content p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .our-scope-left-content::after{
+        content: "";
+        position: absolute;
+        background: #FCA311;
+        top: 0;
+        bottom: 0;
+        left:100%;
+        right: -5000px;
+    }
+    
+    
+    
+    .our-scope-list-item {
+        margin-bottom: 40px;
+    }
+    
+    .primary-heading h2 {
+        font-size: 36px;
+        line-height: 50px;
+    }
+    
+    .primary-heading p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    
+    .feature-project-list-item h2 {
+        font-size: 18px;
+        line-height: 20px;
+    }
+    
+    .feature-project-list-item h3 {
+        font-size: 18px;
+        line-height: 20px;
+    }
+    
+    .project-icon-list {
+        flex-direction: column;
+    }
+    
+    .project-icon-list-item {
+        padding: 20px;
+    }
+    
+    .project-icon-list-item img {
+        margin-bottom: 10px;
+    }
+    
+    .project-icon-list-item h3 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    
+    .project-icon-list-item p {
+        font-size: 14px;
+        line-height: 30px;
+    }
+    
+    .contact-form-info h2 {
+        font-size: 36px;
+        line-height: 58px;
+    }
+    
+    label {
+        font-size: 16px;
+    }
+    
+    .contact-form-input input {
+        font-size: 14px;
+    }
+    
+    .contact-form-input textarea {
+        font-size: 14px;
+    }
+    
+    .footer-menu {
+        margin-top: 20px;
+    }
+
+    .hero-left-side {
+        flex-basis: 100%;
+        text-align: center;
+    }
+    
+    .hero-right-side {
+        flex-basis: 100%;
+        text-align: center;
+    }
+
+    .our-scope-left-content {
+        flex-basis: 100%;
+        text-align: center;
+        padding-right: 20px;
+    }
+}
